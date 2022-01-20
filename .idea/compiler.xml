@@ -2,11 +2,21 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ab" />
+        <module name="rest-spring-boot-starter (2) (orsn.ab.dummyb.spring)" />
+        <module name="local-service-spring-boot-starter (1) (orsn.ab.dummya.spring)" />
+        <module name="api (1) (orsn.ab.dummya)" />
+        <module name="local-service-spring-boot-starter (2) (orsn.ab.dummyb.spring)" />
+        <module name="app (1) (orsn.ab.dummya.spring)" />
+        <module name="impl (2) (orsn.ab.dummyb)" />
+        <module name="api (2) (orsn.ab.dummyb)" />
+        <module name="app (2) (orsn.ab.dummyb.spring)" />
+        <module name="impl (1) (orsn.ab.dummya)" />
+        <module name="rest-spring-boot-starter (1) (orsn.ab.dummya.spring)" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dummya/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/local-service-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/local-service-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/rest-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/rest-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummya/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/local-service-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/local-service-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/rest-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/rest-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dummyb/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
