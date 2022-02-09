@@ -15,8 +15,7 @@
     <name>Dummy B Spring Boot App</name>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <start-class>orsn.ab.dummyb.TheApp</start-class>
     </properties>
 
     <dependencies>

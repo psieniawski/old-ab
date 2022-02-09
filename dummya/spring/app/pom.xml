@@ -15,8 +15,6 @@
     <name>Dummy A Spring Boot App</name>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -54,9 +52,6 @@
                             </goals>
                         </execution>
                     </executions>
-                    <configuration>
-                        <mainClass>${start-class}</mainClass>
-                    </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
